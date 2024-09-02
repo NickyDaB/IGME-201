@@ -16,7 +16,7 @@ There are also many version control communities out there, such as "GitHub" and 
 
 We will be using GitHub public stuff for the purposes of learning and using version control. It should be good enough to serve our purposes.
 
-This isn't a class on version control, tools, or communities, but hopefully, we can become familiar enough with some of the concepts to get us "working" in game development. 
+This isn't a class on version control, tools, or communities, but hopefully, we can become familiar enough with some of the concepts to get us "working" in game development and new media projects. 
 
 But at some point in the future, it would be very valuable to research these topics further. 
 
@@ -337,10 +337,10 @@ Nice, now we don't have to worry about losing all our work because it is backed 
 
 At this point, I think we have successfully gotten our field experience with an introduction to version control.
 
-We just messed around with a text file, but eventually, we will do the exact same things with our C# scripts.
+We just messed around with a text file, but eventually, we will do the exact same things with our C# files.
 
 Congratulations! 
 
 ## Submitting
 
-Don't forget to submit to the blackboard dropbox. See the assignment for submission guidelines.
+Don't forget to submit to the mycourses dropbox. See the assignment for submission guidelines.
