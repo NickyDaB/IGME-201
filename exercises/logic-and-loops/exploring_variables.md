@@ -172,7 +172,7 @@ else
 {
     //Oh no! the user typed in something else.
     userChoice = "NONE";
-    while (userChoice != "left" && userChoice != "right" &&userChoice != "up")
+    while (userChoice != "left" && userChoice != "right" && userChoice != "up")
     {
         Console.WriteLine("Please enter either 'left', 'right', or our now super    secret answer of 'up'.");
         userChoice = Console.ReadLine();
