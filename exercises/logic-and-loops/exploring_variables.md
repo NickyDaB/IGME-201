@@ -211,7 +211,7 @@ After testing, if everything looks good, then you are done!
 
 ## Reference
 
-If you want reference to the full script, then you can find it here:
+If you want reference to the full program, then you can find it here:
 
 ```C#
 namespace ConsoleApp1
