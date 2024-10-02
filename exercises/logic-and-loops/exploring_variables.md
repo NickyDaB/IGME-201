@@ -306,7 +306,13 @@ We now have some hands on experience with:
 
 ## Bonus Levels: Where can we go from here?
 
-Are you taking this class on an "Advanced Difficultly"? Try swapping out one of the "if" statements for a switch statement. 
+Are you taking this class on an "Advanced Difficultly"? 
+
+For the programmers:
+- Try swapping out one of the "if" statements for a switch statement. 
+
+For the designers:
+- Try making a more interesting and in depth story. For example have you heard of older adventure games or interactive stories like [Zork](https://en.wikipedia.org/wiki/Zork)?
 
 These challenge mode tasks won't give you more points toward your grade, but you can brag about it in Slack if you figure it out and want to show off to your peers!
 
