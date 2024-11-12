@@ -75,7 +75,7 @@ Would you like to play again? (yes/no)
 
 ## Reminders
 
-That's all I have to say. Good luck and have fun! Remember to effectivly plan out the assignment with your squad and divide the task and area responsibilities. While hitting all re requirements above, don't forget about other things we have talked about in class such as comments, error handling, and proper object oriented programming.. aka POOP. :shit: :stuck_out_tongue_winking_eye: Just kidding. There is no "proper" it is just Object Oriented Programming, OOP. 
+That's all I have to say. Good luck and have fun! Remember to effectivly plan out the assignment with your squad and divide the task and area responsibilities. There may be areas of your program that you might want to add to to make your job as developers is easier. There might be functionality you should add to make the user experience nicer. Etc Etc. While hitting all re requirements above, don't forget about other things we have talked about in class such as comments, error handling, and proper object oriented programming.. aka POOP. :shit: :stuck_out_tongue_winking_eye: Just kidding. There is no "proper" it is just Object Oriented Programming, OOP. 
 
 ## Submitting
 
