@@ -49,7 +49,9 @@ After Partner A adds Partner B to the repo, you should see a "pending invite" st
 
 ![screenshot](9.png)
 
-Partner B should recieve and email or some sort of notification. Accept it and become a collaborator on this repo. 
+Partner B should recieve and email or some sort of notification. Accept it and become a collaborator on this repo. When partner B does this, the pending invite status should update.
+
+![screenshot](10.png)
 
 
 
