@@ -53,6 +53,8 @@ Partner B should recieve and email or some sort of notification. Accept it and b
 
 ![screenshot](10.png)
 
+### Getting to work
+
 Now each partner should clone the repo down to your local machine using GitHub Desktop. When you have done this your local folder, GitHub Desktop, and github.com should look similar to these states:
 
 local folder:
