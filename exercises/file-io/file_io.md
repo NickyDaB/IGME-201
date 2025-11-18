@@ -15,6 +15,10 @@ Follow a guided tutorial to gain some experience. This will help prepare us for 
 Follow this step by step guide.
 
 ## Instructions
+Let's start off by creating a new repo, a new console app, and getting everything set up as we usually do.
+
+I'll name my project `practicing-file-io`.
+
 
 
 ## Reference
