@@ -14,6 +14,9 @@ Follow a guided tutorial to gain some experience. This will help prepare us for 
 ## Task:  
 Follow this step by step guide.
 
+## Estimated completion time:
+30 minutes
+
 ## Instructions
 Let's start off by creating a new repo, a new console app, and getting everything set up as we usually do.
 
@@ -126,7 +129,7 @@ Cool. Let's try running it again. I can't wait to see the text appear in the fil
 
 What? Oh no! An error!? :(
 
-That's actually ok. It was supposed to happen. And if you read the error text, you might understand why (especially if you have read the book). 
+That's actually ok. It was supposed to happen. And if you read the error text, you might understand why (especially if you have read the book. We totally do the assigned readings every week right? right!?). 
 
 What happened was when we "created" the file earlier we used `File.Create()`. If you read the documentation, that method actually creates a [FileStream](https://learn.microsoft.com/en-us/dotnet/api/system.io.filestream?view=net-10.0) object. 
 
