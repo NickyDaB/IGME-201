@@ -85,7 +85,7 @@ Go into the `bin`, then `Debug`, then `net8.0`, you should see the file there.
 
 ![screenshot](06.png)
 
-> **Side Note:** *If you recall, this is also where the `.exe` of our project gets made when we compile our program in debug mode.
+> **Side Note:** *If you recall, this is also where the `.exe` of our project gets made when we compile our program in debug mode.*
 
 This location makes sense. This is because this location is where our executable program is running. We just said "make the file". So our program made the file and put it right in the same directory.
 
